@@ -101,8 +101,3 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 
 ---
 
-## 💰 Support My Work
-
-If you find my work helpful or interesting, you can support me here:
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/urumb)
