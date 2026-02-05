@@ -31,13 +31,15 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
   </td>
   <td width="35%" align="right">
 
-<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="350" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="350" />
 
   </td>
   </tr>
 </table>
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
@@ -95,5 +97,6 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 </p>
 
 ---
+![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
 
-![AI Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer)
+---
