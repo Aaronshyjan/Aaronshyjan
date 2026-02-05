@@ -35,7 +35,7 @@ Turning complex problems into simple software.
     </td>
     <td width="35%" align="right">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="350" alt="Coding animation" />
+<img src="https://github.com/mdazfar2/Cool-GIFs-For-GitHub/blob/main/gifs/ai_ml.gif?raw=true" width="350" alt="AI Neural Network Animation" />
 
     </td>
   </tr>
@@ -83,6 +83,6 @@ Explore ML models, web apps, and algorithm games: [View on GitHub](https://githu
 </p>
 
 ---
-![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/ml_workflow.gif?raw=true" width="800" alt="ML Workflow Animation" />
 
 *Last updated: Feb 2026*
